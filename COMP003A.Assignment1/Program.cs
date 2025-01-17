@@ -3,6 +3,7 @@
 *Course: [COMP-003A-L01]
 *Faculty: Jonathan Cruz
 *Purpose: This application demonstrates the basic structures of a .NET console application.
+*Test
 */
 
 namespace COMP003A.Assignment1
